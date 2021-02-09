@@ -1,7 +1,7 @@
 {
-  "name": "test-slice-update",
+  "name": "react-toolkit-createslice-example",
   "version": "1.0.0",
-  "description": "Test if createSlice will update nested state",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
